@@ -1,0 +1,6 @@
+{
+  "name": "Kiddo Kingdom",
+  "description": "A multi-page React application for Kiddo Kingdom with SEO routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
