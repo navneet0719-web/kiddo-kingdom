@@ -8,7 +8,7 @@ export default function Home() {
         description="Welcome to Kiddo Kingdom! The best place for your kids to learn, play, and grow in a safe environment." 
       />
       <h1 className="text-4xl md:text-6xl font-extrabold text-amber-600 tracking-tight">
-        Welcome to Kiddo Kingdom!
+        Fun and Educational Toys for Kids
       </h1>
       <p className="text-xl text-slate-600 max-w-2xl">
         Where imagination meets education. Explore our world of fun activities, engaging learning experiences, and a community of happy children.
