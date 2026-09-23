@@ -9,6 +9,7 @@ import artEaselImg from '../assets/images/kids_art_easel_1782280484506.jpg';
 import playTentImg from '../assets/images/kids_play_tent_1782280501817.jpg';
 import flashcardsImg from '../assets/images/educational_flashcards_1782280514478.jpg';
 
+
 export default function Products() {
   const products = [
     { 
@@ -138,3 +139,6 @@ export default function Products() {
     </div>
   );
 }
+
+
+
